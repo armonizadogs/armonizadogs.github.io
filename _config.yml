@@ -1,0 +1,75 @@
+### Site Settings ###
+title               : Armonizadogs
+description         : >-
+                      Expande el vínculo... hacia la armonía social
+# Asociación para una integración canina justa y digna
+baseurl             : ""                     # Change to empty quotes if you are hosting your site at <your-username>.github.io directly
+open_new_tab        : false                  # Opens external URLs in new tab (works for posts, projects and navbar only)
+
+
+### Locale ###
+locale: "es"
+
+### Plugins ###
+plugins:
+  - jemoji
+
+
+### Navbar Settings ###
+nav_exclude:                                  # The following paths are excluded from navbar
+  - pages/tags.html
+  - pages/404.html
+  - pages/index.md
+  
+
+
+### Author Info ###
+author:
+  name              : Armonizadogs
+  image             : images/logo.png  
+  email             : contacto@armonizadogs.com
+  
+
+### Posts ###
+permalink: /blog/:title
+
+
+### Collections ###
+collections:
+  projects:
+    output: true
+    permalink: /projects/:name
+  
+
+### Disqus ###
+disqus:
+  shortname: your-short-name-disqus                     # Your website Shortname on disqus
+
+
+### Analytics ###
+analytics:
+  enabled: false                                        # Set true to enable analytics
+  google:
+    tracking_id: your-google-tracking-id
+
+
+### Defaults for collections ###
+defaults:
+  - scope:
+      path: ""
+      type: "projects"
+    values:
+      layout: "page"
+  - scope:
+      path: ""
+      type: "posts"
+    values:
+      comments: false                                   # Set to true to enable disqus comments
+
+
+### Exclude from processing ###
+exclude:
+  - README.md
+  - CONTRIBUTING.md
+  - LICENSE
+  - "*.log"

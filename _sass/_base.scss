@@ -1,0 +1,39 @@
+html {
+  padding-left: calc(100vw - 100%);
+}
+
+body {
+  // font-family: "Poppins", sans-serif;
+  // font-family: "Verdana", sans-serif;  
+  // Merriweather - A serif font designed for readability on screens.
+  // font-family: "Merriweather", serif;
+  // Playfair Display - A classic serif font for headings or elegant text.
+  font-family: "Playfair Display", serif;
+  // Libre Baskerville - Inspired by traditional book typefaces.
+  // font-family: "Libre Baskerville", serif;
+  // Lora - A well-balanced serif with roots in calligraphy.
+  // font-family: "Lora", serif;
+  // font-family: "", serif;
+}
+
+.badge {
+  font-weight: 500;
+}
+
+.bg-light,
+.badge-light {
+  &,
+  * {
+    color: $text-black !important;    
+    // color: $text-custom1 !important;
+  }
+}
+
+.bg-dark,
+.badge-dark {
+  &,
+  * {
+    color: $text-white !important;
+  }
+}
+
