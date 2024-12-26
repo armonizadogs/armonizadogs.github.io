@@ -54,7 +54,7 @@ familiar o de amistad (burbuja de confort), ni tampoco buscar la dependencia del
 
 Como decíamos antes, hablar de armonía es hablar de bienestar integral, de un estado de satisfacción y conexión grupal y de conceptos como calma, equilibrio, seguridad... Pero es vital que tengamos cuidado de no caer en estereotipos erróneos, la armonía social no consiste en que todos somos amiguitos de todos, todos nos llevamos bien, todos nos queremos ir a hacer cosas juntos... Nada más lejos de la realidad, es importante quitarse esa idea de la cabeza si queremos avanzar en este camino. Ni los humanos somos así ni los perros tampoco, nadie es amigo de todo el mundo y habrá individuos con los que no fluya la relación. Y aunque parezca contradictorio, esto es justo lo que posibilita la armonía y el equilibrio: la necesidad de convivir y comunicarse de forma beneficiosa (adaptativa), sobre todo cuando no existen afinidades, permite desarrollar instrumentos y recursos (comunicativos principalmente) de regulación y estabilidad del grupo... Este es uno de los pilares fundamentales de la vida social y del **instinto gregario** que caracteriza tanto a perros como a personas. Por eso mismo, nuestro enfoque está centrado en esos **"principios mínimos de convivencia"**, esos códigos de los que hablábamos antes (**o esas relaciones entre las notas musicales armonizadas*).
 
-Siendo más directo, para conseguir la armonía y el bienestar integral de tod@s es imprescindible es el **respeto** **<u>mutuo</u>**. Si unimos todas estas ideas nos quedaría algo así:
+Siendo más directo, para conseguir la armonía y el bienestar integral de tod@s es imprescindible el **respeto** **<u>mutuo</u>**. Si unimos todas estas ideas nos quedaría algo así:
 
 Tres conceptos diferenciados pero equivalentes, que se integran y retroalimentan:
 
@@ -67,7 +67,7 @@ Tres conceptos diferenciados pero equivalentes, que se integran y retroalimentan
 La búsqueda de cada uno de ellos genera la conjugación de dos factores: 
 
 <div style="text-align: center;">
-    respeto mutuo ("nadie fastidia a nadie") + componentes
+    respeto mutuo ("nadie fastidia a nadie") + individualidad de los componentes
 </div>
 
 <br>
