@@ -80,7 +80,7 @@ Como idea final acabamos el artículo proponiendo un análisis de todos los ámb
 <br><br>
 
 <p style="text-align: right;">
-José Angel Pinar Loriente
+Jose Ángel Pinar Loriente
 </p>
 
 <p style="text-align: right;">
