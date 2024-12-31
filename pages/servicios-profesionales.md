@@ -29,8 +29,8 @@ Entenderás a tu perro, su naturaleza y necesidades, cómo percibe el mundo y c�
 ¡No es una persona! 
                 </p>
                 <p>
-Descubre el mundo de tu compañero peludo y aprendiende comunicación canina efectiva. 
-Juntos recorreremos el camino que hará que te desenvuelvas con calma, equilibrio y seguridad.
+Descubre la mente de tu compañero peludo y aprende comunicación efectiva. 
+Juntos recorreremos el camino que permitirá que te desenvuelvas con calma, equilibrio y seguridad.
                 </p>
                 <br>
                 <h3>Descripción</h3>
@@ -54,7 +54,7 @@ De esta manera, nuestro objetivo es que consigas formar un gran equipo con tu fi
 Es la etapa más importante de aprendizaje estructural, sentemos unas buenas bases, gánate su confianza, motívale y oriéntale en su descubrimiento del mundo. 
                 </p>
                 <p>
-¡No cometas el gran error de esperar a que se haga adulto! Actúa.
+¡No cometas el gran error de esperar a que se haga adulto! El momento de empezar a ser su guía es ahora.
                 </p>
                 <br>
                 <h3>Descripción</h3>
@@ -80,7 +80,10 @@ Aprenderás a guiarle en una correcta socialización/sociabilización y en los p
                 <br>
                 <p>                
 Entenderás las causas reales de los comportamientos no deseados, identificaremos los estados psico-emocionales, los condicionamientos y los aprendizajes diarios que propician las conductas.
-Armonízate con tu perro, construye vínculo y forma equipo, sé un buen guía.
+                </p>
+                <p>
+Armonízate con tu perro, construye vínculo y forma equipo. 
+Las claves para ser un buen guía y caminar hacia el bienestar están a tu alcance.
                 </p>
                 <br>
                 <h3>Descripción</h3>
@@ -92,20 +95,10 @@ importante e imprescindible es la voluntad y el compromiso de la persona o perso
 protagonistas de la terapia y el manejo del perro.
 Sin estos dos ingredientes la rehabilitación real y completa es imposible.                
                 </p>
-                <br><br>
-                <br>
-<p style="text-align: left;">
-Dicho esto, este servicio se compone de 4 fases:
-<br>
-- Entrevista inicial (gratuita): primera toma de contacto, cambio de impresiones, presentación de la
-metodología y presentación del caso.
-<br>
-- Diagnóstico: proceso de recogida de información, análisis y elaboración del diagnóstico
-<br>
-- Reunión de compromiso familiar con la terapia y planificación conjunta: presentación de la
-planificación de la terapia, reparto de roles, cambio de impresiones, modificaciones, y compromiso final.
-<br>
-- Terapia: aplicación y desarrollo de la terapia para la modificación de las conductas no deseadas.
+                <br><br>                
+                <p style="text-align: left;">
+El servicio completo se compone de cuatro fases: (1) <b>entrevista inicial</b>, (2) <b>diagnóstico</b>, 
+(3) <b>reunión de compromiso y planificación</b>, y (4) <b>terapia</b>.
                 </p>                
     </div>
     <div class="slide" id="service-d">        
