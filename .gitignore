@@ -1,0 +1,14 @@
+# Ruby Gems
+*.gem
+
+*.lock
+
+# Design Files
+*.psd
+*.ai
+
+# IntelliJ
+.idea
+
+# Compiled pages
+_site/

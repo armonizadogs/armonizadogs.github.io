@@ -1,0 +1,25 @@
+@charset "utf-8";
+
+// Custom Fonts
+@import url('https://fonts.googleapis.com/css?family=Poppins');
+@import url('https://fonts.googleapis.com/css?family=Merriweather');
+@import url('https://fonts.googleapis.com/css?family=Verdana');
+@import url('https://fonts.googleapis.com/css?family=Lora');
+@import url('https://fonts.googleapis.com/css?family=Libre Baskerville');
+
+
+// Import partials from `sass_dir` (defaults to `_sass`)
+@import "variables",
+        "404",
+        "base",
+        "blog",
+        "footer",
+        "landing",
+        "navbar",
+        "markdown",
+        "projects",
+        "timeline",
+        "autumn",
+        "theme",
+        "theme-dark",
+        "services";
